@@ -4,13 +4,13 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Software engineering is the systematic application of engineering principles to the design, development, operation, and maintenance of software. It involves a disciplined approach to creating reliable, efficient, and maintainable software systems.Software engineers develop innovative applications and systems that drive advancements in various industries, from healthcare and finance to transportation and entertainment. Software engineers use their skills to solve complex problems and find innovative solutions.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 The Birth of Software Engineering (1960s): Introduction of Structured Programming: The concept of structured programming, pioneered by Edsger Dijkstra and others, revolutionized software development by emphasizing the use of control flow constructs like if-then-else and loops to create more readable and maintainable code.
 The Rise of Object-Oriented Programming (1980s):
 Development of Object-Oriented Languages: Languages like Smalltalk, C++, and later Java introduced the paradigm of object-oriented programming (OOP). OOP focuses on modeling real-world entities as objects with properties (attributes) and behaviors (methods), promoting code reusability and modularity.
-
+The Agile Manifesto (2001): Shift Towards Agile Development: The Agile Manifesto, a document outlining a set of principles for software development, emphasized iterative development, customer collaboration, and responsiveness to change.
 List and briefly explain the phases of the Software Development Life Cycle.
 Planning: This phase involves defining the project's goals, objectives, and scope. Key activities include feasibility studies, requirements gathering, and creating a project plan.
 Design: The design phase focuses on creating a blueprint for the software. This includes designing the system architecture, data structures, user interface, and algorithms.
