@@ -13,9 +13,12 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+The Waterfall model is a linear sequential approach where each phase must be completed before the next begins. It's often used for projects with well-defined requirements and a predictable timeline best suited for Projects with stable requirements and fixed scope while Agile methodologies emphasize iterative development, flexibility, and customer collaboration. They are well-suited for projects with uncertain requirements or where changes are expected during development. Best for Projects with evolving requirements or uncertainty.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+The primary role of a software developer is to design, develop, and maintain software applications. They are responsible for writing code, implementing algorithms, and ensuring the software functions as intended.
+A Quality Assurance engineer is responsible for ensuring the quality of software products. They test software to identify defects and verify that it meets specified requirements.
+ A project manager is responsible for overseeing the entire software development process. They plan, organize, and coordinate the activities of the project team to ensure that the project is completed on time, within budget, and to the desired quality standards.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
