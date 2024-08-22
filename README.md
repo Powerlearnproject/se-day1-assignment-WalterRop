@@ -7,10 +7,16 @@ Explain what software engineering is and discuss its importance in the technolog
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+The Birth of Software Engineering (1960s): Introduction of Structured Programming: The concept of structured programming, pioneered by Edsger Dijkstra and others, revolutionized software development by emphasizing the use of control flow constructs like if-then-else and loops to create more readable and maintainable code.
+The Rise of Object-Oriented Programming (1980s):
+Development of Object-Oriented Languages: Languages like Smalltalk, C++, and later Java introduced the paradigm of object-oriented programming (OOP). OOP focuses on modeling real-world entities as objects with properties (attributes) and behaviors (methods), promoting code reusability and modularity.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+Planning: This phase involves defining the project's goals, objectives, and scope. Key activities include feasibility studies, requirements gathering, and creating a project plan.
+Design: The design phase focuses on creating a blueprint for the software. This includes designing the system architecture, data structures, user interface, and algorithms.
+Development: In this phase, developers write the actual code based on the design specifications. Programming languages, tools, and frameworks are used to implement the software.
+Testing: Testing involves identifying and fixing defects in the software. Various testing techniques are used, such as unit testing, integration testing, system testing, and acceptance testing.
+Maintenance: After deployment, the software requires ongoing maintenance to ensure its functionality, security, and performance. Activities include bug fixes, updates, and enhancements.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 The Waterfall model is a linear sequential approach where each phase must be completed before the next begins. It's often used for projects with well-defined requirements and a predictable timeline best suited for Projects with stable requirements and fixed scope while Agile methodologies emphasize iterative development, flexibility, and customer collaboration. They are well-suited for projects with uncertain requirements or where changes are expected during development. Best for Projects with evolving requirements or uncertainty.
